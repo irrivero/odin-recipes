@@ -1,0 +1,27 @@
+.title,
+.categories,
+.list{
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.title{
+	color: burlywood;
+	background-color: brown;
+	text-align: center;
+	font-size: 40px;
+}
+
+.list{
+	color:brown;
+	background-color: burlywood;
+	font-size: 20px;
+}
+
+.categories{
+	color: rgb(233, 205, 81);
+	background-color: rgb(84, 16, 16);
+	font-size: 20px;}
+
+#parag{
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
